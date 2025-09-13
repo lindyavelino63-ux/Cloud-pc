@@ -86,10 +86,6 @@ jobs:
           }
           echo "TAILSCALE_IP=$tsIP" >> $env:GITHUB_ENV
 
-          Ye RDP banane ka vid hai
-Aur yeh RDP kese re-new karni hai uska
-Yah kay hai
-Ok
 name: RDP
 
 on:
